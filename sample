@@ -1,0 +1,7 @@
+Option Explicit
+
+Sub Sample()
+
+Dim i as interger
+
+End Sub
